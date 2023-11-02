@@ -1,0 +1,2 @@
+# ansible_dynamic_plugin_cisco_dna_center
+Testing the dynamic plugin
